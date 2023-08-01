@@ -1,3 +1,27 @@
 body{
     background-color: rgb(217, 194, 242);
 }
+
+img{
+    width: 200px;
+}
+
+/* nav{
+    margin-left: 200px;
+} */
+
+.batas{
+    margin-left: 200px;
+}
+
+.warna{
+    background-color: aqua;
+}
+
+#bg{
+    background-color: beige;
+}
+
+#kiri{
+    margin-left: 200px;
+}
