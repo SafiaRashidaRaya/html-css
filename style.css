@@ -1,27 +1,41 @@
-body{
-    background-color: rgb(217, 194, 242);
+body {
+  background-color: rgb(217, 194, 242);
 }
 
-img{
-    width: 200px;
+img {
+  width: 200px;
+}
+
+div {
+  border: 2px solid slateblue;
+  margin: 100px 1px 1px 50px;
+  /* margin-left: 200px; */
+
+  padding-top: 30px;
+}
+
+nav {
+  border: 3px solid violet;
 }
 
 /* nav{
     margin-left: 200px;
 } */
 
-.batas{
-    margin-left: 200px;
+.batas {
+  margin-left: 200px;
 }
 
-.warna{
-    background-color: aqua;
+.warna {
+  background-color: aqua;
 }
 
-#bg{
-    background-color: beige;
+#bg {
+  background-color: beige;
+  position: sticky;
+  top: 100px; 
 }
 
-#kiri{
-    margin-left: 200px;
+#kiri {
+  margin-left: 200px;
 }
