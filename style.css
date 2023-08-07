@@ -3,7 +3,7 @@
 }
 
 img {
-    width: 200px;
+    width: 100px;
 }
 
 .card {
@@ -13,5 +13,10 @@ img {
 .horizontal { 
     padding: 10px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 10%;
+}
+
+.rata{
+    text-align: center;
 }
