@@ -9,12 +9,17 @@
     margin: auto;
 }
 
+.warna{
+    background-image: linear-gradient(to right, olivedrab, yellow);
+    color: aliceblue;
+}
+
 img {
     width: 100px;
 }
 
 .card {
-    width: 20%px;
+    width: 20%;
 }
 
 .horizontal { 
