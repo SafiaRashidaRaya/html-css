@@ -20,13 +20,15 @@ img {
 
 .card {
     width: 20%;
+    padding: 5%;
+    box-sizing: border-box;
 }
 
 .horizontal { 
     padding: 10px;
     display: flex;
     justify-content: center;
-    gap: 10%;
+    gap: 2em;
 }
 
 .rata{
