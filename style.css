@@ -9,8 +9,12 @@
     margin: auto;
 }
 
-li:hover{
+h2:hover{
     background-color: greenyellow;
+}
+
+.card:target{
+    background-color: #0099ff;
 }
 
 p::first-letter {
