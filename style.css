@@ -9,6 +9,15 @@
     margin: auto;
 }
 
+li:hover{
+    background-color: greenyellow;
+}
+
+p::first-letter {
+    color: #0099ff;
+    font-size: xx-large;
+  }
+
 .warna{
     background-image: linear-gradient(to right, olivedrab, yellow);
     color: aliceblue;
